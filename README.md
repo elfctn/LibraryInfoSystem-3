@@ -50,3 +50,12 @@ Yazdığınız sorguları buradan test edebilirsiniz: [https://ergineer.com/asse
       10) Öğrenci noya göre öğrenci silebilmeyi sağlayan "sil" adında bir prosedür oluşturun.
 
 
+DML (Data Manipulation Language)
+Veritabanındaki verileri eklemek, güncellemek veya silmek için kullanılır.
+Örnek komutlar:
+
+INSERT (Veri ekleme)
+
+UPDATE (Veri güncelleme)
+
+DELETE (Veri silme)
